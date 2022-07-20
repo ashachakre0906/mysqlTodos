@@ -1,1 +1,1 @@
-DEmo project pushing todos to heroku
+Demo project pushing todos to heroku
